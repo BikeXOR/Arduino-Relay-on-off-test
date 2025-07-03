@@ -9,7 +9,7 @@
 
 Arduino Pin腳定義
 
-Vbus ADC 偵測腳位 (分壓電阻999kΩ and 999kΩ)
+Vbus ADC 偵測腳位 (分壓電阻110kΩ and 13kΩ)
 #define Vbus A0
 
 繼電器模組腳位 (低電位觸發)
